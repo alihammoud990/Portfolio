@@ -163,14 +163,4 @@ form{
 
 
 
-.screen{
-  width: 80vw;
-  height: 80vh;
-	font-size: 7rem;
-	padding: 0.5rem;
-	background-color:transparent ;
-	border: none;
-	border-radius: 3px;
-	z-index: 1;
-}
 
