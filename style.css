@@ -155,13 +155,6 @@ a.link {
 
 
 
-form{
-  margin:10px auto;
-  width :80%;
-  clear:both;
-}
-
-
 .screen{
     box-sizing: border-box;
     padding-top: 2.5%;
@@ -178,7 +171,7 @@ form{
       
 }
 
-
+/*----------------------------------skills-----------------------------------*/
  .skills {
      
 	 width: 90%;
