@@ -327,3 +327,19 @@ a.link {
 }
 
 
+
+/*----------------------------contact---------------------------------------------------*/
+     .contact {
+     
+	 width: 90%;
+	 max-width: 960px;
+	 height: 880px;
+	 margin: auto;
+	 position: relative;
+     
+}
+      #map {
+        height: 400px;  
+        width: 100%;
+       }
+
