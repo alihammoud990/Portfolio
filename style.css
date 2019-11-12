@@ -11,6 +11,7 @@ body {
 }
 
 .wrapper {
+  background-color:black;
   box-sizing: border-box;
   position: relative;
   width: 100%;
